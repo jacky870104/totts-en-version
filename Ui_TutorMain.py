@@ -223,7 +223,7 @@ class Ui_MainWindow(object):
         self.radSegFrom.setText(_translate("MainWindow", "front half"))
         self.radSegBack.setText(_translate("MainWindow", "back half"))
         self.radSegWhole.setText(_translate("MainWindow", "whole song"))
-        self.radSong.setText(_translate("MainWindow", "Tune"))
+        self.radSong.setText(_translate("MainWindow", "Sing"))
         self.radBody.setWhatsThis(_translate("MainWindow", "1"))
         self.radBody.setText(_translate("MainWindow", "Body"))
         self.radComposite.setText(_translate("MainWindow", "Mix"))

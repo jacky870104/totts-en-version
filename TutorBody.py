@@ -490,6 +490,8 @@ class SingBodyWindow(QWidget, Ui_BodyWindow):
             cn_name = "石惠君(旦)"
         elif en_name == 'Yi-Fan Gu':
             cn_name = "古翊汎(生)"
+        elif en_name == "Yue-Ling Liang":
+            cn_name = "梁越玲(生)"
         else: ## en_name == 'Music only':
             cn_name = "空弦伴奏"
         
